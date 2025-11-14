@@ -1,0 +1,28 @@
+# Compiled files and build artifacts
+*.pyc
+__pycache__/
+*.class
+*.o
+*.obj
+
+# Data files (except small reference files)
+*.dat
+*.bin
+*.h5
+*.fits
+*.root
+
+# Simulation outputs
+output/
+results/
+simulations/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
